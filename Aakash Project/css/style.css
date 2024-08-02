@@ -1,0 +1,86 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.Navbar a{
+    color: white;
+    font-weight: 700;
+    margin-left: 20px;
+}
+.Call-Button{
+    font-size: 12px;
+    margin-left: 10px;
+    height: 44px;
+    width: 151px;
+}
+.Navbar-second a{
+   margin-left: 40px;
+   font-size: 20px;
+   font-weight: 700;
+}
+.Sleact-Cource{
+    background-color: rgba(132, 214, 214, 0.76);
+    margin-top: 15px;
+    margin-bottom: 30px;
+    padding-top: 30px;
+}
+.News-Card{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.Cource{
+    margin-top: 31px;
+    padding-top: 42px;
+    padding-bottom: 30px;
+}
+.Form-Class input{
+    height: 40px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    
+}
+.Aakash-Advantage{
+    background-color: rgba(36, 181, 214, 0.753);
+}
+.Dout-Area{
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+@media only screen and (max-width: 600px) {
+    .Spans span{
+        font-size: 11px !important;
+    }
+    .image-footer-logo img{
+        width: 173px !important;
+        margin-bottom: 33px;
+        margin-left: 65px;
+    }
+
+}
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+    .Adjust{
+        margin-left: 100px !important;
+    }
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+/* @media only screen and (min-width: 600px) {...} */
+
+/* Medium devices (landscape tablets, 768px and up) */
+/* @media only screen and (min-width: 768px) {...} */
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+    .Adjust{
+        margin-left: 100px !important;
+    }
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+/* @media only screen and (min-width: 1200px) {...} */
+.footer-Section{
+
+    background-color: #1f2658;
+    color: white;
+}
